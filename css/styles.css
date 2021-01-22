@@ -1,0 +1,20 @@
+html {
+    min-height: 100%;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient(-225deg, #5d69d6c9 0%, #471dbb94 52%, #120583b2 100%);
+    min-height: 100%;
+    padding-bottom: 5rem;
+  }
+
+  .container {
+    background-color: white;
+}
+
+p {
+  width: 100%;
+  height: 49px;
+}
